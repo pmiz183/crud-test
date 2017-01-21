@@ -1,7 +1,7 @@
 [
 	{
-		"BusinessId" : "1"
-		"BusinessTradingName": "Keylog",
+		"BusinessId" : "1",
+		"BusinessTradingName" : "Keylog",
 		"BusinessDescription": "Tag Scan and Go",
 		"BusinessDisplayName": "Keylog",
 		"BusinessNumber": "123456789",
@@ -12,8 +12,8 @@
 		"BusinessContactUsEmail": "info@keylog.com.au"
 	},
 	{
-		"BusinessId" : "1"
-		"BusinessTradingName": "Log it out",
+		"BusinessId" : "1",
+		"BusinessTradingName" : "Log it out",
 		"BusinessDescription": "Tag, log and go",
 		"BusinessDisplayName": "LogItOut",
 		"BusinessNumber": "123456781",
